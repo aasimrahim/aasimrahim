@@ -35,4 +35,5 @@ Developed financial automation modules, compliance tracking systems, and analyti
 ## 📫 Contact
 
 LinkedIn:https://www.linkedin.com/in/aasim-rahim-96630823b/
+
 Email: aasimrahim786@gmail.com
