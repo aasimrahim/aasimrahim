@@ -56,6 +56,6 @@ Git, Linux
 
 ## 📫 Contact
 
-LinkedIn:https://www.linkedin.com/in/aasim-rahim-96630823b/
+LinkedIn:linkedin.com/in/aasim-rahim/
 
 Email: aasimrahim786@gmail.com
